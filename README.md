@@ -4,7 +4,7 @@ Write a program to estimate the value of the percolation threshold via Monte Car
 Install our Java programming environment (optional). Install our custom IntelliJ programming environment by following these step-by-step instructions for your operating system [ Mac OS X · Windows · Linux ].
  
 After following these instructions, the commands javac-algs4 and java-algs4 will classpath in algs4.jar, which contains Java classes for I/O and all of the algorithms in the textbook. To access a class in algs4.jar, you need an import statement, such as the ones below:
- 
+  
 import edu.princeton.cs.algs4.StdRandom;  
 import edu.princeton.cs.algs4.StdStats; 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
