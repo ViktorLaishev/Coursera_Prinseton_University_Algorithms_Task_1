@@ -56,7 +56,7 @@ Repeat the following until the system percolates:
 Choose a site uniformly at random among all blocked sites.
 Open the site.
 The fraction of sites that are opened when the system percolates provides an estimate of the percolation threshold.
-For example, if sites are opened in a 20-by-20 lattice according to the snapshots below, then our estimate of the percolation threshold is 204/400 = 0.51 because the system percolates when the 204th site is opened.
+For example, if sites are opened in a 20-by-20 lattice according to the snapshots below, then our estimate of the percolation threshold is 204/400 = 0.51 because the system percolates when the 204th site is opened. 
 
      	Percolation 50 sites
 50 open sites
