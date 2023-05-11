@@ -1,5 +1,5 @@
 # Coursera_Prinseton_University_Algorithms_Task_1
-Write a program to estimate the value of the percolation threshold via Monte Carlo simulation.
+Write a program to estimate the value of the percolation threshold via Monte Carlo simulation. 
 
 Install our Java programming environment (optional). Install our custom IntelliJ programming environment by following these step-by-step instructions for your operating system [ Mac OS X · Windows · Linux ].
  
